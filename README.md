@@ -1,21 +1,15 @@
-# Proyecto Innovación Utem Sitio Web
-Descripción del Proyecto
-Este proyecto busca crear una plataforma centrada en la gestión y compartición de recetas para la creación de materiales.
+# Innovación UTEM: Plataforma de Materiales y Recetas
 
-Características Principales:
-Registro de Recetas: Los usuarios pueden registrar recetas detalladas de productos, incluyendo temperaturas, instrucciones paso a paso y la capacidad de añadir imágenes en cada paso.
+**Descripción:**  
+Bienvenido a nuestra innovadora plataforma, diseñada para ser el epicentro de recetas para la creación de materiales. Inspirada por la pasión de compartir conocimientos, esta plataforma es el puente entre inventores, creadores y entusiastas.
 
-Catálogo de Recetas: Un catálogo completo donde los usuarios pueden buscar y filtrar recetas por productos, similar a la funcionalidad ofrecida por Materiom.
+## Características Destacadas:  
+- 🔍 **Catálogo Dinámico**: Navega por un extenso catálogo de recetas, similar a Materiom, con la capacidad de filtrar y buscar según tus necesidades.  
+- 📝 **Registro Detallado de Recetas**: Cada receta viene con instrucciones paso a paso, temperaturas, y la opción de añadir imágenes para una comprensión clara.  
+- 🔐 **Gestión de Usuarios Avanzada**: Con roles diferenciados, desde administradores con acceso total, usuarios comunes que curan contenido, hasta invitados que exploran recetas seleccionadas.  
+- 💾 **Base de Datos Robusta**: Garantizamos la integridad y seguridad de cada receta almacenada.  
+- 💌 **Formulario de Contacto Integrado**: Estamos aquí para escuchar. Envía tus consultas, sugerencias o mensajes directamente desde la plataforma.  
+- 👁️ **Control de Visibilidad**: Decide quién ve qué. Una característica esencial para proteger la propiedad intelectual y compartir de manera selectiva.
 
-Base de Datos: El sistema cuenta con una base de datos robusta que almacena todas las recetas y sus detalles.
+Únete a nosotros en este viaje de descubrimiento y creación. Tu próxima gran idea podría estar a una receta de distancia.
 
-Búsqueda de Recetas: Funcionalidad integrada para realizar consultas y buscar recetas específicas.
-
-Gestión de Usuarios: Soporte para múltiples roles de usuario:
-
-Administrador: Acceso completo a todas las recetas.
-Usuario Común: Puede acceder y decidir qué recetas son visibles para usuarios invitados.
-Invitado: Acceso limitado a recetas seleccionadas.
-Formulario de Contacto: Una herramienta integrada para que los visitantes puedan enviar consultas o mensajes.
-
-Control de Visibilidad: Los administradores y usuarios comunes pueden decidir qué recetas son visibles para otros usuarios.
