@@ -1,4 +1,4 @@
-# ProyectoInnovaUtem
+# Proyecto Innovación Utem Sitio Web
 Descripción del Proyecto
 Este proyecto busca crear una plataforma inspirada en materiom.org, centrada en la gestión y compartición de recetas para la creación de materiales.
 
