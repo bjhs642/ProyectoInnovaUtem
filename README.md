@@ -1,6 +1,6 @@
 # Proyecto Innovación Utem Sitio Web
 Descripción del Proyecto
-Este proyecto busca crear una plataforma inspirada en materiom.org, centrada en la gestión y compartición de recetas para la creación de materiales.
+Este proyecto busca crear una plataforma centrada en la gestión y compartición de recetas para la creación de materiales.
 
 Características Principales:
 Registro de Recetas: Los usuarios pueden registrar recetas detalladas de productos, incluyendo temperaturas, instrucciones paso a paso y la capacidad de añadir imágenes en cada paso.
