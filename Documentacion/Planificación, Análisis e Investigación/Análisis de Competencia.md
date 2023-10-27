@@ -65,6 +65,8 @@ Materiom es una plataforma que proporciona recetas para la creación de material
 ### A. Descripción General:
 MaterialDistrict es una plataforma dedicada a la innovación en materiales. Ofrece una amplia variedad de materiales innovadores y soluciones sostenibles para diferentes industrias.
 
+![Vista Previa del sitio web](Imagenes/Competidor%2002.png)
+
 ### B. Funcionalidades Principales:
 - **Búsqueda de Materiales:** Permite a los usuarios buscar materiales específicos utilizando palabras clave.
 - **Categorización:** Los materiales están categorizados en sectores como arquitectura, diseño de interiores, moda, etc.
@@ -99,6 +101,8 @@ MaterialDistrict es una plataforma dedicada a la innovación en materiales. Ofre
 
 ### A. Descripción General:
 AllRecipes es una plataforma dedicada a recetas de cocina. Los usuarios pueden buscar, compartir y discutir recetas de todo tipo.
+
+![Vista Previa del sitio web](Imagenes/Competidor%2003.png)
 
 ### B. Funcionalidades Principales:
 - **Búsqueda de Recetas:** Los usuarios pueden buscar recetas específicas o explorar por categoría.
@@ -135,6 +139,8 @@ AllRecipes es una plataforma dedicada a recetas de cocina. Los usuarios pueden b
 ### A. Descripción General:
 AskNature es una plataforma innovadora que se centra en la biomimética, un enfoque que busca soluciones a desafíos humanos emulando patrones y estrategias encontradas en la naturaleza. El sitio proporciona una amplia base de datos de estrategias biológicas y ejemplos inspirados en la naturaleza para ayudar a diseñadores, ingenieros y otros profesionales a encontrar soluciones sostenibles.
 
+![Vista Previa del sitio web](Imagenes/Competidor%2004.png)
+
 ### B. Funcionalidades Principales:
 - **Base de Datos de Estrategias Biológicas:** Una colección extensa de cómo las criaturas y sistemas en la naturaleza resuelven problemas.
 - **Búsqueda y Filtrado Avanzados:** Los usuarios pueden buscar estrategias específicas, organismos o funciones.
@@ -170,6 +176,8 @@ AskNature es una plataforma innovadora que se centra en la biomimética, un enfo
 ### A. Descripción General:
 Thingiverse es una plataforma dedicada a la compartición de diseños digitales para la impresión 3D. Es una comunidad vibrante donde los creadores pueden subir, compartir y discutir sus diseños, y los usuarios pueden descargarlos para imprimir en sus propias impresoras 3D.
 
+![Vista Previa del sitio web](Imagenes/Competidor%2005.png)
+
 ### B. Funcionalidades Principales:
 - **Biblioteca de Diseños:** Una extensa colección de diseños 3D listos para imprimir, desde arte y moda hasta herramientas y juguetes.
 - **Búsqueda y Filtrado Avanzados:** Los usuarios pueden buscar diseños específicos, categorías o diseñadores.
@@ -204,6 +212,8 @@ Thingiverse es una plataforma dedicada a la compartición de diseños digitales 
 
 ### A. Descripción General:
 Instructables es una comunidad y plataforma en línea donde las personas pueden explorar, documentar y compartir sus creaciones hechas a mano. El sitio cubre una amplia gama de temas, desde cocina y manualidades hasta tecnología y carpintería.
+
+![Vista Previa del sitio web](Imagenes/Competidor%2006.png)
 
 ### B. Funcionalidades Principales:
 - **Proyectos Detallados:** Los usuarios pueden publicar "instructables", que son recetas paso a paso para crear algo.
@@ -241,6 +251,8 @@ Instructables es una comunidad y plataforma en línea donde las personas pueden 
 ### A. Descripción General:
 Epicurious es una plataforma dedicada a la gastronomía que ofrece recetas, consejos de cocina, reseñas de productos y artículos relacionados con la comida y la bebida. Es conocida por su amplia colección de recetas y por ser una fuente confiable para chefs y aficionados a la cocina.
 
+![Vista Previa del sitio web](Imagenes/Competidor%2007.png)
+
 ### B. Funcionalidades Principales:
 - **Colección de Recetas:** Miles de recetas que abarcan desde platos simples hasta preparaciones gourmet.
 - **Artículos y Recetas:** Contenido editorial sobre tendencias culinarias, técnicas de cocina y reseñas de productos.
@@ -276,6 +288,8 @@ Epicurious es una plataforma dedicada a la gastronomía que ofrece recetas, cons
 
 ### A. Descripción General:
 Food52 es más que una simple plataforma de recetas; es una comunidad culinaria que combina recetas, historias, consejos de cocina y una tienda en línea con productos seleccionados para el hogar y la cocina. Su enfoque está en crear una experiencia culinaria integral para sus usuarios.
+
+![Vista Previa del sitio web](Imagenes/Competidor%2008.png)
 
 ### B. Funcionalidades Principales:
 - **Recetas y Artículos:** Una amplia gama de recetas acompañadas de artículos relacionados con la comida, historias y consejos.
@@ -313,6 +327,8 @@ Food52 es más que una simple plataforma de recetas; es una comunidad culinaria 
 ### A. Descripción General:
 Tinkercad es una aplicación en línea de modelado 3D gratuita creada por Autodesk. Está diseñada para introducir a los principiantes en el mundo del diseño y modelado 3D. Además de ser una herramienta de diseño, también ofrece lecciones y proyectos para ayudar a los usuarios a aprender y mejorar sus habilidades.
 
+![Vista Previa del sitio web](Imagenes/Competidor%2009.png)
+
 ### B. Funcionalidades Principales:
 - **Diseño 3D:** Herramientas intuitivas para crear modelos 3D desde cero.
 - **Circuitos:** Permite a los usuarios diseñar y simular circuitos electrónicos.
@@ -349,6 +365,8 @@ Tinkercad es una aplicación en línea de modelado 3D gratuita creada por Autode
 
 ### A. Descripción General:
 Splitcoaststampers es una comunidad en línea dedicada a los aficionados de las manualidades, especialmente en el área de estampado y tarjetería. El sitio ofrece galerías de proyectos, tutoriales, foros y recursos para ayudar a los entusiastas a compartir y aprender nuevas técnicas.
+
+![Vista Previa del sitio web](Imagenes/Competidor%2010.png)
 
 ### B. Funcionalidades Principales:
 - **Galerías:** Los usuarios pueden subir y mostrar sus creaciones, desde tarjetas hasta proyectos de scrapbooking.
