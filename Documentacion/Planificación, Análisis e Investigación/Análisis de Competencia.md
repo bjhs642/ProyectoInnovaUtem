@@ -25,7 +25,7 @@ El análisis de competencia de cada sitio web constará de la siguiente estructu
 ### A. Descripción General
 Materiom es una plataforma que proporciona recetas para la creación de materiales sostenibles y ecológicos. Está centrada en la idea de la economía circular y busca proporcionar alternativas sostenibles a los materiales tradicionales.
 
-![Vista Previa del sitio web](./imagenes/Competidor 01.png)
+![Vista Previa del sitio web](Imagenes/Competidor 01.png)
 
 ### B. Funcionalidades Principales
 - Base de datos extensa de recetas de materiales.
