@@ -1,7 +1,7 @@
 # Proyecto Web
 
 1. **Vista Principal del Sitio Web**
-   ![Vista Principal](Imagenes/Proyecto Web_page-0002.jpg)
+   ![Vista Principal](Imagenes/Proyecto%20Web_page-0002.jpg)
 
 2. **Recetario Vista Visitante**
    ![Recetario Visitante](Imagenes/Proyecto Web_page-0003.jpg)
