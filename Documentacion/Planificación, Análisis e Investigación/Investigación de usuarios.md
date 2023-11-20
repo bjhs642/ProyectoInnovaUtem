@@ -198,4 +198,48 @@ Respuesta: _______________________________________________________________
 
 ------
 
-¡Gracias por tu tiempo!
+### 26. En términos de soporte y asistencia en la plataforma, ¿cómo prefieres recibir ayuda cuando enfrentas dificultades o tienes preguntas?
+- [ ] Asistencia en tiempo real (chat en vivo)
+- [ ] Foros de discusión
+- [ ] Guías de ayuda o tutoriales
+- [ ] Soporte por correo electrónico
+- [ ] Preguntas frecuentes (FAQ)
+- [ ] No necesito asistencia
+- [ ] Otro: ____________________
+
+---
+
+### 27. ¿Cómo valoras la importancia de tener opciones de personalización en las recetas, como ajustar cantidades o sustituir ingredientes?
+- [ ] Muy importante
+- [ ] Importante
+- [ ] Neutral
+- [ ] Poco importante
+- [ ] No importante
+
+---
+
+### 28. ¿Con qué frecuencia te gustaría recibir notificaciones sobre nuevas características, recetas o actualizaciones en la plataforma?
+- [ ] Cada vez que haya una novedad
+- [ ] Semanalmente
+- [ ] Mensualmente
+- [ ] Solo cuando inicie sesión en la plataforma
+- [ ] Prefiero no recibir notificaciones
+
+---
+
+### 29. ¿Te interesa una función que te permita seguir a otros usuarios o ver sus contribuciones y proyectos en la plataforma?
+- [ ] Sí
+- [ ] No
+- [ ] Indiferente
+
+---
+
+### 30. ¿Qué tan relevante es para ti que la plataforma sea accesible en múltiples idiomas?
+- [ ] Muy relevante
+- [ ] Algo relevante
+- [ ] Neutral
+- [ ] Poco relevante
+- [ ] No relevante
+
+---
+
