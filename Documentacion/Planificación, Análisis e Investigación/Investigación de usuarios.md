@@ -64,8 +64,12 @@ Respuesta: _______________________________________________________________
 
 ---
 
-### 10. ¿Hay alguna otra sugerencia o comentario que te gustaría compartir con nosotros?
-Respuesta: _______________________________________________________________
+### 10. ¿Qué tan relevante es para ti que la plataforma sea accesible en múltiples idiomas?
+- [ ] Muy relevante
+- [ ] Algo relevante
+- [ ] Neutral
+- [ ] Poco relevante
+- [ ] No relevante
 
 ---
 
@@ -234,12 +238,7 @@ Respuesta: _______________________________________________________________
 
 ---
 
-### 30. ¿Qué tan relevante es para ti que la plataforma sea accesible en múltiples idiomas?
-- [ ] Muy relevante
-- [ ] Algo relevante
-- [ ] Neutral
-- [ ] Poco relevante
-- [ ] No relevante
-
+### 30. ¿Hay alguna otra sugerencia o comentario que te gustaría compartir con nosotros?
+Respuesta: _______________________________________________________________
 ---
 
